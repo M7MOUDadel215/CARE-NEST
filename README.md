@@ -35,3 +35,5 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 # Instructor's name: Mohamed Kamar
 ### Google drive link: <br> 
 https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sharing
+### figma link: <br> 
+https://www.figma.com/design/LUNJOc3iYN6IWTrP6UMd8f/Depi-Project?node-id=76-171&t=a2qrGQbSKAMAYvO7-1
