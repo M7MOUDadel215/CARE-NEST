@@ -36,4 +36,4 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 ### Google drive link: <br> 
 https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sharing
 ### Figma Link <br>
-[[https://www.figma.com/design/LUNJOc3iYN6IWTrP6UMd8f/Depi-Project?node-id=76-171&t=a2qrGQbSKAMAYvO7-1](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=0-1&t=8y1agUDUyvLeNv9b-1)](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=0-1&t=8y1agUDUyvLeNv9b-1)
+(https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=0-1&t=8y1agUDUyvLeNv9b-1)](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=0-1&t=8y1agUDUyvLeNv9b-1)
