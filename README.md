@@ -58,28 +58,28 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - Improvements & Iterations
 - ---
 # Roles and Responsibilities
-### UX Design Process
-## mahmoud & mohamed
+## UX Design Process
+### mahmoud & mohamed
 - Market research 
 - 5W
 - Key attributes 
 - Business model
-## noureen
+### noureen
 - interview (user, stakholder)
 - Servay
 - Affinity map
 - Insights 
-## esraa
+### esraa
 - Persona
 - Empathy map
 - User journey 
 - Problem statement
 - Solution 
-## all team
+### all team
 - cart sorting
 - site map
 - user flow
-### UI Design Process
+## UI Design Process
 
 - ---
 # Tools Used
