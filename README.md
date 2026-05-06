@@ -58,30 +58,39 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - Improvements & Iterations
 - ---
 # Roles and Responsibilities
-### UX
-### mahmoud & mohamed
+### UX Design Process
+## mahmoud & mohamed
 - Market research 
 - 5W
 - Key attributes 
 - Business model
-### noureen
+## noureen
 - interview (user, stakholder)
 - Servay
 - Affinity map
 - Insights 
-### esraa
+## esraa
 - Persona
 - Empathy map
 - User journey 
 - Problem statement
 - Solution 
-### all team
+## all team
 - cart sorting
 - site map
 - user flow
+### UI Design Process
+
+- ---
+# Tools Used
+- Figma – UX/UI Design, Prototyping, Collaboration
+- Miro – Ideation, Mind Mapping, and User Flows
+- Notion – Task Management and Documentation
+- Adobe Illustrator – Logo
+- Google Forms – Surveys and Data Collection
 - ---
 # Instructor's name: Mohamed Kamar
-### Google drive link: <br> 
+### Google drive link case study: <br> 
 https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sharing
-### Figma Link <br>
+### Figma Link: <br>
 (https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=0-1&t=8y1agUDUyvLeNv9b-1)
