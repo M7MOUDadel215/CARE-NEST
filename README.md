@@ -80,7 +80,16 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - site map
 - user flow
 ## UI Design Process
-
+### Mahmoud Adel
+- Typography
+- Style Guide
+- Grid System
+- Elements Placement
+- UI Components
+- Icons & Illustrations
+- Imagery
+- Spacing & Alignment
+- 
 - ---
 # Tools Used
 - Figma – UX/UI Design, Prototyping, Collaboration
