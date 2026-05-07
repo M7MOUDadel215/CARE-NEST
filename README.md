@@ -167,9 +167,6 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 ### Google drive link case study: <br> 
 https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sharing
 ### Figma Link UI: <br>
-[[https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=0-1&t=8y1agUDUyvLeNv9b-1](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2003-6695&t=v9teoqfg5rPZaI2x-1)](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2003-6695&t=WpWsJisa8hZIQfWv-1)
+https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2003-6695&t=WpWsJisa8hZIQfWv-1
 ### Figma Link case study: <br>
 https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2770-307&t=WpWsJisa8hZIQfWv-1 <br> 
-[Google drive link case study]([https://myportfolio.com](https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sharing)) <br> 
-[case study]([https://myportfolio.com](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2003-6695&t=WpWsJisa8hZIQfWv-1)) <br> 
-[Figma Link case stud]([https://myportfolio.com](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2770-307&t=WpWsJisa8hZIQfWv-1)) 
