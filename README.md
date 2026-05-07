@@ -170,6 +170,4 @@ https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sha
 [[https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=0-1&t=8y1agUDUyvLeNv9b-1](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2003-6695&t=v9teoqfg5rPZaI2x-1)](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2003-6695&t=WpWsJisa8hZIQfWv-1)
 ### Figma Link case study: <br>
 https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2770-307&t=WpWsJisa8hZIQfWv-1
-[Google drive link case study]([https://myportfolio.com](https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sharing))
-[Figma Link UI]([[https://myportfolio.com](https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sharing)](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2003-6695&t=WpWsJisa8hZIQfWv-1))
-[Figma Link case study]([https://myportfolio.com](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2770-307&t=WpWsJisa8hZIQfWv-1))
+[My Portfolio](https://myportfolio.com)
