@@ -171,5 +171,5 @@ https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sha
 ### Figma Link case study: <br>
 https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2770-307&t=WpWsJisa8hZIQfWv-1 <br> 
 [Google drive link case study]([https://myportfolio.com](https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sharing)) <br> 
-[Figma Link UI]([https://myportfolio.com](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2003-6695&t=WpWsJisa8hZIQfWv-1)) <br> 
+[case study]([https://myportfolio.com](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2003-6695&t=WpWsJisa8hZIQfWv-1)) <br> 
 [Figma Link case stud]([https://myportfolio.com](https://www.figma.com/design/Hr7qRvuivzepTmW08hLpYH/Care-Nest?node-id=2770-307&t=WpWsJisa8hZIQfWv-1)) 
