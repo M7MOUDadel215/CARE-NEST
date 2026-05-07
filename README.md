@@ -101,7 +101,7 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - doc over view page
 - doc book page 
 - doc reviews page
-### MOhamed elsaeed
+### Mohamed elsaeed
 ### UI Screens
 - Splash screens 
 - Onboarding screens
