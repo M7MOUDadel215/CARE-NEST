@@ -89,7 +89,72 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - Icons & Illustrations
 - Imagery
 - Spacing & Alignment
-- 
+### UI Screens
+- sign up user page
+- page fill profile page 
+- sign up doc page 
+- Scan ID Card page
+- Doc login page
+- home for doc page
+- home for user page
+- Search doctors page 
+- doc over view page
+- doc book page 
+- doc reviews page
+### MOhamed elsaeed
+### UI Screens
+- Splash screens 
+- Onboarding screens
+- verify email doc page(for doctor and user)
+- forget password pages(for doctor and user)
+- appointment doc page
+- add appointment page
+- patients page
+- doc profile page
+- fill doc profile page
+- notification page(for doctor and user)
+- dashboard doc page
+- patient details pages (Overview,history,prescriptions,notes)
+- notes popup
+- health tracker page
+- health center page 
+- hospital details page
+- user profile page
+- fill user profile page
+- invite friends page
+- address/add new address page
+- user sittings
+### Esraa Elsebaey
+- High Level Wireframes
+- Color Palette
+- Color Tokens Variables for project
+### UI Screens
+- MyHealth Screen
+- Mediations Screen
+- Add Medication Popup
+- Edit Medication Popup
+- Reminders--->1-Appointments, 
+             2-Vaccination and 
+             3-Medications 
+- Caregivers
+- Add Caregivers Popup
+- Doctor Caregiver Popup
+- Nurse Caregiver Popup
+- Member Caregiver Popup
+- Send Message Popup
+- Payments Options
+- Add New Card Popup
+- Add New Wallet Popup
+- Add New Address Popup
+- Profile Settings
+- Clinic Details
+### Noureen Mohamed
+### UI Screens
+- private clinic page
+- chexkout page
+- confirm payment overlay
+- confirmation page
+- medical history(test,x-ray,prescriptions,notes)
 - ---
 # Tools Used
 - Figma – UX/UI Design, Prototyping, Collaboration
