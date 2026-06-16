@@ -3,11 +3,8 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - ---
 # Team Members :
 - Mahmoud Adel Hafez
-- Mohamed Elsaeed Osman
-- Shorouk Ramadan Abdelmoawed
+- Mohamed Elsaeed 
 - Esraa Elsebaey Abd Elwahab
-- Hager Saad Abdeelkhabeer
-- Noureen Mohamed El Sayed
 - ---
 # Roles and Responsibilities
 ### UX
@@ -15,19 +12,18 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - Market research 
 - 5W
 - Key attributes 
-- Business model
-### noureen & hager
-- interview (user, stakholder)
-- Servay
-- Affinity map
-- Insights 
-### shorouk & esraa
+- Business model 
+### esraa
 - Persona
 - Empathy map
 - User journey 
 - Problem statement
 - Solution 
 ### all team
+- interview (user, stakholder)
+- Servay
+- Affinity map
+- Insights
 - cart sorting
 - site map
 - user flow
