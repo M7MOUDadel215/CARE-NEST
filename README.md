@@ -5,7 +5,6 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - Mahmoud Adel Hafez
 - Mohamed Elsaeed Osman
 - Esraa Elsebaey Abd Elwahab
-- Noureen Mohamed El Sayed
 - ---
 # Work Plan
 ## UX Design Process
@@ -64,11 +63,6 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - 5W
 - Key attributes 
 - Business model
-### noureen
-- interview (user, stakholder)
-- Servay
-- Affinity map
-- Insights 
 ### esraa
 - Persona
 - Empathy map
@@ -76,6 +70,10 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - Problem statement
 - Solution 
 ### all team
+- interview (user, stakholder)
+- Servay
+- Affinity map
+- Insights 
 - cart sorting
 - site map
 - user flow
@@ -148,8 +146,6 @@ A smart healthcare app that connects patients with doctors through an intuitive 
 - Add New Address Popup
 - Profile Settings
 - Clinic Details
-### Noureen Mohamed
-### UI Screens
 - private clinic page
 - chexkout page
 - confirm payment overlay
