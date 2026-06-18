@@ -165,4 +165,4 @@ https://drive.google.com/drive/folders/1LAYOXgWpZn7H7dmTbm7u5pNghmekZLof?usp=sha
 ### Figma Link UI: <br>
 https://www.figma.com/design/ekR1FCxyxgc5g4KLGnhSwc/Yat-Care-Nest-Project?node-id=0-1&t=cbuY0sZw6YQYlZdl-1
 ### Figma Link case study: <br>
-https://www.figma.com/design/ekR1FCxyxgc5g4KLGnhSwc/Yat-Care-Nest-Project?node-id=0-1&t=cbuY0sZw6YQYlZdl-1
+https://www.figma.com/design/ekR1FCxyxgc5g4KLGnhSwc/Yat-Care-Nest-Project?node-id=37-9507&t=kNspkxgRmFqKr0PL-1
